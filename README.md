@@ -4,6 +4,8 @@ Learning WebGL's lesson page can be found [here](http://learningwebgl.com/blog/?
 
 Lesson 4 [direct link](http://learningwebgl.com/blog/?p=370).
 
+Also note this uses Brandon Jones' glMatrix for matrix and vector handling.
+
 ## This Project
 
 Mostly for getting a feel of WebGL. Also just to make something that's pleasant to look at.
